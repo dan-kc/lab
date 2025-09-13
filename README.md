@@ -16,19 +16,9 @@ Create security group for VPN. This can be done by commenting out the services i
 
 ### Todo:
 
-- Helm: syncthing, forgejo, jellyfin, immich
+- immich, syncthing
 
 ### Routes:
-
-#### VPN:
-
-- Public IP: 18.130.122.49
-- Wireguard: 10.0.0.1
-- Private IP: 10.0.2.4
-
-#### Client:
-
-- Wireguard: 10.0.0.2
 
 ## Notes:
 
